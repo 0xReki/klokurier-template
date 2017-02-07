@@ -2,7 +2,7 @@
 %
 % MIT License
 %
-% Copyright (c) 2016 Thai “0xReki” Chung <mail@0xReki.de>
+% Copyright (c) 2017 Thai “0xReki” Chung <mail@0xReki.de>
 %
 % Permission is hereby granted, free of charge, to any person obtaining a copy
 % of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +22,7 @@
 % OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 % SOFTWARE.
 
-\ProvidesClass{klokurier}[2016/12/20 Klokurier class]
+\ProvidesClass{klokurier}[2017/02/07 Klokurier class]
 
 \DeclareOption*{%
   \PassOptionsToClass{\CurrentOption}{scrartcl}%
