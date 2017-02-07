@@ -28,7 +28,7 @@
   \PassOptionsToClass{\CurrentOption}{scrartcl}%
 }
 \ProcessOptions\relax
-\LoadClass{article}
+\LoadClass{scrartcl}
 
 %%% Output Format %%%
 \RequirePackage[utf8x]{inputenc}
