@@ -39,6 +39,7 @@
 \RequirePackage{multicol}
 \setlength{\parindent}{0cm}
 \pagestyle{empty}
+\RequirePackage[bitstream-charter]{mathdesign}
 
 %%% Graphics %%%
 \RequirePackage[pdftex]{graphicx}
